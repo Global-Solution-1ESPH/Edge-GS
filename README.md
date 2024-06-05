@@ -54,7 +54,7 @@ Todo o status do compartimento é exibido em tempo real em uma tela de LCD, para
   - Utilize a Imagem do Circuito:
        <details>
         <summary>Imagem do circuito:</summary>
-        <img src=""  />
+        <img src="Clean_Ocean.png"/>
   </details>
 
 ## 💻 Como Instalar e Executar o Código
