@@ -83,3 +83,8 @@ Todo o status do compartimento é exibido em tempo real em uma tela de LCD, para
 - [Giulia Barbizan](https://github.com/Giulia-Rocha) RM: **558084**
 - [Gustavo Viega](https://github.com/Vieg4) RM: **555885**
 - [Felipe Marques](https://github.com/FelipeMarquesdeOliveira) RM: **556319**
+
+## Links Úteis
+
+- [Simulação Wokwi](https://wokwi.com/projects/399770863841218561)
+- [Vídeo Explicativo]()
